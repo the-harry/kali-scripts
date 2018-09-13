@@ -1,0 +1,54 @@
+**IP logger:
+
+https://grabify.link/
+
+https://iplogger.org/
+
+
+**Mail tacking: (envio - otario@gmail.com.mailtracking.com )
+
+http://www.mailtracking.com/
+
+
+**Old versions:
+
+https://web.archive.org/
+
+
+**dns lookup:
+
+https://www.whois.com.au/whois/dns.html
+
+
+**Varredura Web
+
+https://censys.io/
+
+https://www.shodan.io/
+
+
+**HASH CRACK
+
+https://hashkiller.co.uk/md5-decrypter.aspx
+
+**JS PACKER
+
+http://joliclic.free.fr/php/javascript-packer/en/index.php
+
+
+**JS unpacker
+
+http://matthewfl.com/unPacker.html
+
+**VARIOS DECODER
+
+https://www.dcode.fr
+
+**FAKE MAIL
+
+https://emkei.cz/
+
+
+**problemas routers
+
+http://www.routerpwn.com/

