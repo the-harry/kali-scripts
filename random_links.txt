@@ -20,7 +20,7 @@ https://web.archive.org/
 https://www.whois.com.au/whois/dns.html
 
 
-**Varredura Web
+**Web searches
 
 https://censys.io/
 
@@ -40,7 +40,7 @@ http://joliclic.free.fr/php/javascript-packer/en/index.php
 
 http://matthewfl.com/unPacker.html
 
-**VARIOS DECODER
+**DECODERS
 
 https://www.dcode.fr
 
@@ -49,6 +49,6 @@ https://www.dcode.fr
 https://emkei.cz/
 
 
-**problemas routers
+**Routers
 
 http://www.routerpwn.com/
